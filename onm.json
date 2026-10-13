@@ -1,12 +1,5 @@
 {
-  "employees": [
-    {
-      "id": "1",
-      "name": "Abhishek",
-      "team": "O&M",
-      "active": true
-    }
-  ],
+  "employees": [],
   "roster": [],
   "leaves": [],
   "monthlyPlans": [],
@@ -28,5 +21,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-13T17:40:51.708Z"
+  "savedAt": "2026-10-13T17:43:24.664Z"
 }
