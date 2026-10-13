@@ -14,7 +14,17 @@
     }
   ],
   "roster": [],
-  "leaves": [],
+  "leaves": [
+    {
+      "employeeId": "1",
+      "from": "2026-10-17",
+      "to": "2026-10-18",
+      "reason": "COMPOFF",
+      "id": "928c3b74-4531-4bb0-9517-406f479deecf",
+      "status": "Pending",
+      "createdAt": "2026-10-13T19:24:20.841Z"
+    }
+  ],
   "monthlyPlans": [
     {
       "employeeId": "1",
@@ -57,5 +67,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-13T19:23:36.221Z"
+  "savedAt": "2026-10-13T19:24:21.350Z"
 }
