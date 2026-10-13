@@ -9,7 +9,16 @@
   ],
   "roster": [],
   "leaves": [],
-  "monthlyPlans": [],
+  "monthlyPlans": [
+    {
+      "employeeId": "1",
+      "month": "2026-10",
+      "shift": "S1",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-13T17:33:58.548Z"
+    }
+  ],
   "users": [
     {
       "id": "user-admin",
@@ -28,5 +37,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-13T17:09:44.085Z"
+  "savedAt": "2026-10-13T17:33:58.568Z"
 }
