@@ -11,14 +11,6 @@
   "leaves": [],
   "monthlyPlans": [
     {
-      "employeeId": "1",
-      "month": "2026-10",
-      "shift": "",
-      "weekOffDays": [],
-      "weekOffDay": "",
-      "updatedAt": "2026-10-13T18:12:40.634Z"
-    },
-    {
       "employeeId": "2",
       "month": "2026-10",
       "shift": "",
@@ -27,6 +19,14 @@
       ],
       "weekOffDay": "",
       "updatedAt": "2026-10-13T18:12:41.848Z"
+    },
+    {
+      "employeeId": "1",
+      "month": "2026-10",
+      "shift": "S1",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-13T18:17:40.247Z"
     }
   ],
   "users": [
@@ -47,5 +47,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-13T18:17:34.541Z"
+  "savedAt": "2026-10-13T18:17:40.279Z"
 }
