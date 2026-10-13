@@ -1,12 +1,5 @@
 {
-  "employees": [
-    {
-      "id": "2",
-      "name": "ANSHU",
-      "team": "O&M",
-      "active": true
-    }
-  ],
+  "employees": [],
   "roster": [],
   "leaves": [],
   "monthlyPlans": [
@@ -51,5 +44,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-13T18:11:59.321Z"
+  "savedAt": "2026-10-13T18:12:01.635Z"
 }
