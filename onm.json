@@ -1,12 +1,6 @@
 {
   "employees": [
     {
-      "id": "1",
-      "name": "Abhishek",
-      "team": "O&M",
-      "active": true
-    },
-    {
       "id": "2",
       "name": "ANSHU",
       "team": "O&M",
@@ -57,5 +51,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-13T18:11:47.664Z"
+  "savedAt": "2026-10-13T18:11:59.321Z"
 }
