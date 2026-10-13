@@ -13,13 +13,13 @@
     {
       "employeeId": "1",
       "month": "2026-10",
-      "shift": "S1",
+      "shift": "S2",
       "weekOffDays": [
         4,
         5
       ],
       "weekOffDay": "",
-      "updatedAt": "2026-10-13T17:36:55.927Z"
+      "updatedAt": "2026-10-13T17:37:04.221Z"
     }
   ],
   "users": [
@@ -40,5 +40,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-13T17:36:55.935Z"
+  "savedAt": "2026-10-13T17:37:04.225Z"
 }
