@@ -1,25 +1,17 @@
 {
-  "employees": [
-    {
-      "id": "1",
-      "name": "abhishek",
-      "team": "O&M",
-      "active": true
-    }
-  ],
+  "employees": [],
   "roster": [],
   "leaves": [],
   "monthlyPlans": [
     {
       "employeeId": "1",
       "month": "2026-10",
-      "shift": "S2",
+      "shift": "S1",
       "weekOffDays": [
-        4,
-        5
+        4
       ],
       "weekOffDay": "",
-      "updatedAt": "2026-10-13T17:37:04.221Z"
+      "updatedAt": "2026-10-13T17:34:07.480Z"
     }
   ],
   "users": [
@@ -40,5 +32,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-13T17:37:04.225Z"
+  "savedAt": "2026-10-13T17:38:18.871Z"
 }
