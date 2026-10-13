@@ -1,1 +1,25 @@
-{}
+{
+  "employees": [],
+  "roster": [],
+  "leaves": [],
+  "monthlyPlans": [],
+  "users": [
+    {
+      "id": "user-admin",
+      "username": "admin",
+      "displayName": "Administrator",
+      "role": "admin",
+      "passwordHash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+      "active": true
+    },
+    {
+      "id": "user-viewer",
+      "username": "viewer",
+      "displayName": "Roster Viewer",
+      "role": "viewer",
+      "passwordHash": "65375049b9e4d7cad6c9ba286fdeb9394b28135a3e84136404cfccfdcc438894",
+      "active": true
+    }
+  ],
+  "savedAt": "2026-10-13T16:13:17.225Z"
+}
