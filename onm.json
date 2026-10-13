@@ -25,11 +25,10 @@
       "month": "2026-10",
       "shift": "S1",
       "weekOffDays": [
-        4,
-        5
+        4
       ],
       "weekOffDay": "",
-      "updatedAt": "2026-10-13T18:17:58.134Z"
+      "updatedAt": "2026-10-13T18:19:28.181Z"
     }
   ],
   "users": [
@@ -50,5 +49,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-13T18:18:44.504Z"
+  "savedAt": "2026-10-13T18:19:28.197Z"
 }
