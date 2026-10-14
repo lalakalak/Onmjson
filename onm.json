@@ -1,12 +1,6 @@
 {
   "employees": [
     {
-      "id": "18",
-      "name": "Anand Pandey (DevOps)",
-      "team": "O&M",
-      "active": true
-    },
-    {
       "id": "19",
       "name": "Vikas Menaria (DBA)",
       "team": "O&M",
@@ -828,5 +822,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T16:43:13.536Z"
+  "savedAt": "2026-10-14T16:43:16.255Z"
 }
