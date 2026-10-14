@@ -189,14 +189,6 @@
   ],
   "monthlyPlans": [
     {
-      "employeeId": "4",
-      "month": "2026-10",
-      "shift": "S1",
-      "weekOffDays": [],
-      "weekOffDay": "",
-      "updatedAt": "2026-10-14T05:41:39.352Z"
-    },
-    {
       "employeeId": "5",
       "month": "2026-10",
       "shift": "S1",
@@ -233,6 +225,14 @@
       ],
       "weekOffDay": "",
       "updatedAt": "2026-10-14T06:57:16.161Z"
+    },
+    {
+      "employeeId": "4",
+      "month": "2026-10",
+      "shift": "",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T06:57:19.057Z"
     }
   ],
   "users": [
@@ -253,5 +253,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T06:57:16.669Z"
+  "savedAt": "2026-10-14T06:57:19.563Z"
 }
