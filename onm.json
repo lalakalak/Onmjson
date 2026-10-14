@@ -688,10 +688,11 @@
       "month": "2026-11",
       "shift": "S3",
       "weekOffDays": [
-        1
+        1,
+        2
       ],
       "weekOffDay": "",
-      "updatedAt": "2026-10-14T08:00:37.297Z"
+      "updatedAt": "2026-10-14T08:00:38.978Z"
     }
   ],
   "users": [
@@ -712,5 +713,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T08:00:37.807Z"
+  "savedAt": "2026-10-14T08:00:52.301Z"
 }
