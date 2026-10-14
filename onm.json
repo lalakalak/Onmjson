@@ -1,12 +1,6 @@
 {
   "employees": [
     {
-      "id": "12",
-      "name": "Piyush Padmarag (DevOps)",
-      "team": "O&M",
-      "active": true
-    },
-    {
       "id": "13",
       "name": "Nikhil P Singh (DBA)",
       "team": "O&M",
@@ -864,5 +858,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T16:42:57.666Z"
+  "savedAt": "2026-10-14T16:43:00.163Z"
 }
