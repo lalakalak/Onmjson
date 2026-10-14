@@ -1,12 +1,6 @@
 {
   "employees": [
     {
-      "id": "1",
-      "name": "Abhishek K (B.E.)",
-      "team": "O&M",
-      "active": true
-    },
-    {
       "id": "2",
       "name": "Biswaranjan Bal (B.E.)",
       "team": "O&M",
@@ -930,5 +924,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T16:41:50.767Z"
+  "savedAt": "2026-10-14T16:42:25.995Z"
 }
