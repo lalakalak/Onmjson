@@ -173,6 +173,12 @@
       "name": "Garima Choudhary (DevOps)",
       "team": "O&M",
       "active": true
+    },
+    {
+      "id": "30",
+      "name": "Tripti Tyagi(QA)",
+      "team": "O&M",
+      "active": true
     }
   ],
   "roster": [],
@@ -954,5 +960,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T10:29:53.537Z"
+  "savedAt": "2026-10-14T10:30:14.296Z"
 }
