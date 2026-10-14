@@ -7,12 +7,6 @@
       "active": true
     },
     {
-      "id": "2",
-      "name": "Biswa (B.E.)",
-      "team": "O&M",
-      "active": true
-    },
-    {
       "id": "3",
       "name": "Ranjeet (FE)",
       "team": "O&M",
@@ -253,5 +247,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T05:41:42.640Z"
+  "savedAt": "2026-10-14T06:41:08.100Z"
 }
