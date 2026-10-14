@@ -605,10 +605,10 @@
     {
       "employeeId": "21",
       "month": "2026-11",
-      "shift": "S2",
+      "shift": "General",
       "weekOffDays": [],
       "weekOffDay": "",
-      "updatedAt": "2026-10-14T07:38:49.690Z"
+      "updatedAt": "2026-10-14T07:38:57.924Z"
     }
   ],
   "users": [
@@ -629,5 +629,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T07:38:52.235Z"
+  "savedAt": "2026-10-14T07:38:58.437Z"
 }
