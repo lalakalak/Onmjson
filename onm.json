@@ -1,12 +1,6 @@
 {
   "employees": [
     {
-      "id": "16",
-      "name": "Shivam Singh (B.E.)",
-      "team": "O&M",
-      "active": true
-    },
-    {
       "id": "17",
       "name": "Anshu K Aditya (B.E.)",
       "team": "O&M",
@@ -840,5 +834,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T16:43:08.295Z"
+  "savedAt": "2026-10-14T16:43:10.933Z"
 }
