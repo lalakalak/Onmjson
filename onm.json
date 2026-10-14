@@ -1,12 +1,6 @@
 {
   "employees": [
     {
-      "id": "21",
-      "name": "Amit R Devkar (QA)",
-      "team": "O&M",
-      "active": true
-    },
-    {
       "id": "22",
       "name": "Chandra P Dabriyal (QA)",
       "team": "O&M",
@@ -810,5 +804,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T16:43:22.138Z"
+  "savedAt": "2026-10-14T16:43:25.545Z"
 }
