@@ -861,13 +861,13 @@
     {
       "employeeId": "31",
       "month": "2026-11",
-      "shift": "",
+      "shift": "General",
       "weekOffDays": [
         0,
         6
       ],
       "weekOffDay": "",
-      "updatedAt": "2026-10-14T09:53:23.868Z"
+      "updatedAt": "2026-10-14T09:53:36.922Z"
     }
   ],
   "users": [
@@ -888,5 +888,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T09:53:25.032Z"
+  "savedAt": "2026-10-14T09:53:37.447Z"
 }
