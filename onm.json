@@ -1,12 +1,6 @@
 {
   "employees": [
     {
-      "id": "20",
-      "name": "Krunal Kamboj (DevOps)",
-      "team": "O&M",
-      "active": true
-    },
-    {
       "id": "21",
       "name": "Amit R Devkar (QA)",
       "team": "O&M",
@@ -816,5 +810,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T16:43:19.220Z"
+  "savedAt": "2026-10-14T16:43:22.138Z"
 }
