@@ -1,66 +1,6 @@
 {
   "employees": [
     {
-      "id": "2",
-      "name": "Biswaranjan Bal (B.E.)",
-      "team": "O&M",
-      "active": true
-    },
-    {
-      "id": "3",
-      "name": "Ranjeet Singh (FE)",
-      "team": "O&M",
-      "active": true
-    },
-    {
-      "id": "4",
-      "name": "Janvi Negi (QA)",
-      "team": "O&M",
-      "active": true
-    },
-    {
-      "id": "5",
-      "name": "Bharti Sharma (DBA)",
-      "team": "O&M",
-      "active": true
-    },
-    {
-      "id": "6",
-      "name": "Arshya Bajaj (DevOps)",
-      "team": "O&M",
-      "active": true
-    },
-    {
-      "id": "7",
-      "name": "Amar Katiyar (FE)",
-      "team": "O&M",
-      "active": true
-    },
-    {
-      "id": "8",
-      "name": "Ritesh Gupta (FE)",
-      "team": "O&M",
-      "active": true
-    },
-    {
-      "id": "9",
-      "name": "Boby Sirohi (B.E.)",
-      "team": "O&M",
-      "active": true
-    },
-    {
-      "id": "10",
-      "name": "Sudhir K (B.E.)",
-      "team": "O&M",
-      "active": true
-    },
-    {
-      "id": "11",
-      "name": "Javed Salim (QA)",
-      "team": "O&M",
-      "active": true
-    },
-    {
       "id": "12",
       "name": "Piyush Padmarag (DevOps)",
       "team": "O&M",
@@ -924,5 +864,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T16:42:25.995Z"
+  "savedAt": "2026-10-14T16:42:57.666Z"
 }
