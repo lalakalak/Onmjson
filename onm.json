@@ -1,12 +1,6 @@
 {
   "employees": [
     {
-      "id": "26",
-      "name": "Siyaram K Gupta (FE)",
-      "team": "O&M",
-      "active": true
-    },
-    {
       "id": "27",
       "name": "Ranu Raj (B.E.)",
       "team": "O&M",
@@ -780,5 +774,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T16:43:38.125Z"
+  "savedAt": "2026-10-14T16:43:41.281Z"
 }
