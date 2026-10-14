@@ -1,12 +1,6 @@
 {
   "employees": [
     {
-      "id": "23",
-      "name": "Rishabh Bisht (B.E.)",
-      "team": "O&M",
-      "active": true
-    },
-    {
       "id": "24",
       "name": "Rajesh K Pradhan (DevOps)",
       "team": "O&M",
@@ -798,5 +792,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T16:43:28.489Z"
+  "savedAt": "2026-10-14T16:43:31.807Z"
 }
