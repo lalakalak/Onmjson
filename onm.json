@@ -217,6 +217,14 @@
       "weekOffDays": [],
       "weekOffDay": "",
       "updatedAt": "2026-10-14T05:41:35.888Z"
+    },
+    {
+      "employeeId": "4",
+      "month": "2026-10",
+      "shift": "S1",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T05:41:39.352Z"
     }
   ],
   "users": [
@@ -237,5 +245,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T05:41:36.393Z"
+  "savedAt": "2026-10-14T05:41:39.858Z"
 }
