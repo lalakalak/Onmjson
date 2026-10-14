@@ -178,6 +178,15 @@
   "roster": [],
   "leaves": [
     {
+      "employeeId": "23",
+      "from": "2026-11-11",
+      "to": "2026-11-11",
+      "reason": "",
+      "id": "dd63c4b7-c257-4a3b-b229-161616a0ab1e",
+      "status": "Pending",
+      "createdAt": "2026-10-14T08:24:13.050Z"
+    },
+    {
       "employeeId": "4",
       "from": "2026-11-23",
       "to": "2026-11-27",
@@ -710,5 +719,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T08:23:21.320Z"
+  "savedAt": "2026-10-14T08:24:13.562Z"
 }
