@@ -2,13 +2,175 @@
   "employees": [
     {
       "id": "1",
-      "name": "Abhishek",
+      "name": "Abhishek K (B.E.)",
       "team": "O&M",
       "active": true
     },
     {
       "id": "2",
-      "name": "Anshu",
+      "name": "Biswa (B.E.)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "3",
+      "name": "Ranjeet (FE)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "4",
+      "name": "Janvi (QA)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "5",
+      "name": "Bharti (DBA)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "6",
+      "name": "Arshya (DevOps)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "7",
+      "name": "Amar (FE)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "8",
+      "name": "Ritesh (FE)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "9",
+      "name": "Boby (B.E.)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "10",
+      "name": "Sudhir (B.E.)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "11",
+      "name": "Javed (QA)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "12",
+      "name": "Piyush (DevOps)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "13",
+      "name": "Nikhil (DBA)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "14",
+      "name": "Vinay (FE)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "15",
+      "name": "Sumit (B.E.)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "16",
+      "name": "Shivam (B.E.)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "17",
+      "name": "Anshu K (B.E.)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "18",
+      "name": "Anand (DevOps)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "19",
+      "name": "Vikas M (DBA)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "20",
+      "name": "Krunal (DevOps)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "21",
+      "name": "Amit",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "22",
+      "name": "Chandra",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "23",
+      "name": "Rishabh",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "24",
+      "name": "Rajesh (DevOps)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "25",
+      "name": "Puneet (FE)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "26",
+      "name": "Siyaram (FE)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "27",
+      "name": "Ranu (B.E.)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "28",
+      "name": "Sanjib (DBA)",
+      "team": "O&M",
+      "active": true
+    },
+    {
+      "id": "29",
+      "name": "Garima (DevOps)",
       "team": "O&M",
       "active": true
     }
