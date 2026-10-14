@@ -191,48 +191,168 @@
     {
       "employeeId": "1",
       "month": "2026-10",
-      "shift": "",
+      "shift": "S1",
       "weekOffDays": [
         4,
         3
       ],
       "weekOffDay": "",
-      "updatedAt": "2026-10-14T06:53:53.785Z"
-    },
-    {
-      "employeeId": "3",
-      "month": "2026-10",
-      "shift": "",
-      "weekOffDays": [],
-      "weekOffDay": "",
-      "updatedAt": "2026-10-14T06:54:03.936Z"
+      "updatedAt": "2026-10-14T07:22:42.528Z"
     },
     {
       "employeeId": "2",
       "month": "2026-10",
-      "shift": "",
+      "shift": "S1",
       "weekOffDays": [
         5,
         4
       ],
       "weekOffDay": "",
-      "updatedAt": "2026-10-14T06:57:16.161Z"
+      "updatedAt": "2026-10-14T07:22:50.539Z"
+    },
+    {
+      "employeeId": "3",
+      "month": "2026-10",
+      "shift": "S1",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:22:53.780Z"
     },
     {
       "employeeId": "4",
       "month": "2026-10",
-      "shift": "",
+      "shift": "S1",
       "weekOffDays": [],
       "weekOffDay": "",
-      "updatedAt": "2026-10-14T06:57:19.057Z"
+      "updatedAt": "2026-10-14T07:22:56.805Z"
     },
     {
       "employeeId": "5",
       "month": "2026-10",
-      "shift": "",
+      "shift": "S1",
       "weekOffDays": [],
       "weekOffDay": "",
-      "updatedAt": "2026-10-14T06:57:21.196Z"
+      "updatedAt": "2026-10-14T07:23:02.372Z"
+    },
+    {
+      "employeeId": "6",
+      "month": "2026-10",
+      "shift": "S1",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:23:04.446Z"
+    },
+    {
+      "employeeId": "8",
+      "month": "2026-10",
+      "shift": "S2",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:23:19.097Z"
+    },
+    {
+      "employeeId": "9",
+      "month": "2026-10",
+      "shift": "S2",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:23:23.349Z"
+    },
+    {
+      "employeeId": "10",
+      "month": "2026-10",
+      "shift": "S3",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:23:28.529Z"
+    },
+    {
+      "employeeId": "11",
+      "month": "2026-10",
+      "shift": "S2",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:23:34.267Z"
+    },
+    {
+      "employeeId": "12",
+      "month": "2026-10",
+      "shift": "S3",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:25:28.622Z"
+    },
+    {
+      "employeeId": "13",
+      "month": "2026-10",
+      "shift": "S3",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:25:33.259Z"
+    },
+    {
+      "employeeId": "14",
+      "month": "2026-10",
+      "shift": "S2",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:25:36.791Z"
+    },
+    {
+      "employeeId": "7",
+      "month": "2026-10",
+      "shift": "S3",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:25:48.025Z"
+    },
+    {
+      "employeeId": "15",
+      "month": "2026-10",
+      "shift": "S3",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:26:11.784Z"
+    },
+    {
+      "employeeId": "16",
+      "month": "2026-10",
+      "shift": "S3",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:26:23.247Z"
+    },
+    {
+      "employeeId": "17",
+      "month": "2026-10",
+      "shift": "S1",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:26:28.839Z"
+    },
+    {
+      "employeeId": "18",
+      "month": "2026-10",
+      "shift": "S2",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:27:04.242Z"
+    },
+    {
+      "employeeId": "19",
+      "month": "2026-10",
+      "shift": "S2",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:27:07.104Z"
+    },
+    {
+      "employeeId": "20",
+      "month": "2026-10",
+      "shift": "S3",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:27:12.436Z"
     }
   ],
   "users": [
@@ -253,5 +373,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T06:57:21.712Z"
+  "savedAt": "2026-10-14T07:27:21.031Z"
 }
