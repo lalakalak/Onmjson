@@ -246,7 +246,7 @@
       "to": "2026-12-01",
       "reason": "Marriage",
       "id": "91aae0e2-cdae-4f86-a905-4753079626f2",
-      "status": "Pending",
+      "status": "Approved",
       "createdAt": "2026-10-14T08:24:52.037Z"
     },
     {
@@ -255,7 +255,7 @@
       "to": "2026-11-11",
       "reason": "",
       "id": "dd63c4b7-c257-4a3b-b229-161616a0ab1e",
-      "status": "Pending",
+      "status": "Approved",
       "createdAt": "2026-10-14T08:24:13.050Z"
     },
     {
@@ -791,5 +791,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T08:34:15.068Z"
+  "savedAt": "2026-10-14T08:34:19.064Z"
 }
