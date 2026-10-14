@@ -195,7 +195,7 @@
       "to": "2026-11-11",
       "reason": "",
       "id": "bf79b08a-e9e0-4537-b8f7-52d9527ccb8f",
-      "status": "Pending",
+      "status": "Approved",
       "createdAt": "2026-10-14T09:56:06.015Z"
     },
     {
@@ -204,7 +204,7 @@
       "to": "2026-11-09",
       "reason": "",
       "id": "ed187a0a-8fa1-4f3c-b56a-6961a0780510",
-      "status": "Pending",
+      "status": "Approved",
       "createdAt": "2026-10-14T09:55:42.843Z"
     },
     {
@@ -213,7 +213,7 @@
       "to": "2026-11-09",
       "reason": "",
       "id": "1d336b84-e9c7-48c4-befb-9bf38686ff06",
-      "status": "Pending",
+      "status": "Approved",
       "createdAt": "2026-10-14T09:54:50.861Z"
     },
     {
@@ -222,7 +222,7 @@
       "to": "2026-12-06",
       "reason": "",
       "id": "b9e0b65a-39c2-48a5-9dec-0435abd3a697",
-      "status": "Pending",
+      "status": "Approved",
       "createdAt": "2026-10-14T09:54:26.109Z"
     },
     {
@@ -924,5 +924,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T09:56:16.950Z"
+  "savedAt": "2026-10-14T09:56:48.841Z"
 }
