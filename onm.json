@@ -201,7 +201,7 @@
       "to": "2026-10-20",
       "reason": "",
       "id": "9057c000-7219-43f2-a3f3-1763b14a58c6",
-      "status": "Pending",
+      "status": "Approved",
       "createdAt": "2026-10-14T08:31:14.238Z"
     },
     {
@@ -210,7 +210,7 @@
       "to": "2026-10-11",
       "reason": "",
       "id": "cd20e07b-a4fc-4b9b-8107-ddfd5571be4e",
-      "status": "Pending",
+      "status": "Approved",
       "createdAt": "2026-10-14T08:30:11.662Z"
     },
     {
@@ -791,5 +791,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T08:34:06.939Z"
+  "savedAt": "2026-10-14T08:34:08.967Z"
 }
