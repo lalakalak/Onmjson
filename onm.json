@@ -913,11 +913,9 @@
       "employeeId": "8",
       "month": "2026-11",
       "shift": "S2",
-      "weekOffDays": [
-        2
-      ],
+      "weekOffDays": [],
       "weekOffDay": "",
-      "updatedAt": "2026-10-14T16:41:42.083Z"
+      "updatedAt": "2026-10-14T16:41:43.226Z"
     }
   ],
   "users": [
@@ -938,5 +936,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T16:41:42.610Z"
+  "savedAt": "2026-10-14T16:41:44.418Z"
 }
