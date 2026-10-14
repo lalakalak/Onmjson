@@ -1,12 +1,6 @@
 {
   "employees": [
     {
-      "id": "29",
-      "name": "Garima Choudhary (DevOps)",
-      "team": "O&M",
-      "active": true
-    },
-    {
       "id": "30",
       "name": "Tripti Tyagi(QA)",
       "team": "O&M",
@@ -762,5 +756,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T16:43:47.797Z"
+  "savedAt": "2026-10-14T16:43:50.926Z"
 }
