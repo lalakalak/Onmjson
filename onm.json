@@ -1,6 +1,6 @@
 {
   "employees": [
-     {
+    {
       "id": "1",
       "name": "Abhishek K (B.E.)",
       "team": "O&M",
@@ -200,17 +200,6 @@
       "updatedAt": "2026-10-13T19:23:35.704Z"
     },
     {
-      "employeeId": "1",
-      "month": "2026-10",
-      "shift": "S1",
-      "weekOffDays": [
-        4,
-        3
-      ],
-      "weekOffDay": "",
-      "updatedAt": "2026-10-13T19:47:53.715Z"
-    },
-    {
       "employeeId": "3",
       "month": "2026-10",
       "shift": "S1",
@@ -233,6 +222,17 @@
       "weekOffDays": [],
       "weekOffDay": "",
       "updatedAt": "2026-10-14T05:41:42.134Z"
+    },
+    {
+      "employeeId": "1",
+      "month": "2026-10",
+      "shift": "",
+      "weekOffDays": [
+        4,
+        3
+      ],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T06:53:53.785Z"
     }
   ],
   "users": [
@@ -253,5 +253,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T06:41:40.717Z"
+  "savedAt": "2026-10-14T06:53:54.298Z"
 }
