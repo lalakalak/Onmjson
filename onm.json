@@ -403,14 +403,6 @@
       "updatedAt": "2026-10-14T07:27:56.286Z"
     },
     {
-      "employeeId": "27",
-      "month": "2026-10",
-      "shift": "S1",
-      "weekOffDays": [],
-      "weekOffDay": "",
-      "updatedAt": "2026-10-14T07:28:14.332Z"
-    },
-    {
       "employeeId": "28",
       "month": "2026-10",
       "shift": "S2",
@@ -425,6 +417,14 @@
       "weekOffDays": [],
       "weekOffDay": "",
       "updatedAt": "2026-10-14T07:28:30.130Z"
+    },
+    {
+      "employeeId": "27",
+      "month": "2026-10",
+      "shift": "S3",
+      "weekOffDays": [],
+      "weekOffDay": "",
+      "updatedAt": "2026-10-14T07:30:48.920Z"
     }
   ],
   "users": [
@@ -445,5 +445,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T07:28:52.102Z"
+  "savedAt": "2026-10-14T07:30:49.431Z"
 }
