@@ -179,12 +179,6 @@
       "name": "Tripti Tyagi",
       "team": "O&M",
       "active": true
-    },
-    {
-      "id": "31",
-      "name": "Chandan Maity",
-      "team": "O&M",
-      "active": true
     }
   ],
   "roster": [],
@@ -945,5 +939,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T10:16:51.417Z"
+  "savedAt": "2026-10-14T10:18:07.710Z"
 }
