@@ -1,12 +1,6 @@
 {
   "employees": [
     {
-      "id": "13",
-      "name": "Nikhil P Singh (DBA)",
-      "team": "O&M",
-      "active": true
-    },
-    {
       "id": "14",
       "name": "Vinay Naugain (FE)",
       "team": "O&M",
@@ -858,5 +852,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T16:43:00.163Z"
+  "savedAt": "2026-10-14T16:43:02.929Z"
 }
