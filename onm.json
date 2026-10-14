@@ -1,12 +1,6 @@
 {
   "employees": [
     {
-      "id": "22",
-      "name": "Chandra P Dabriyal (QA)",
-      "team": "O&M",
-      "active": true
-    },
-    {
       "id": "23",
       "name": "Rishabh Bisht (B.E.)",
       "team": "O&M",
@@ -804,5 +798,5 @@
       "active": true
     }
   ],
-  "savedAt": "2026-10-14T16:43:25.545Z"
+  "savedAt": "2026-10-14T16:43:28.489Z"
 }
